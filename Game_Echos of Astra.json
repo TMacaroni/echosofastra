@@ -3,7 +3,7 @@
   "menuBackgroundImage": "https://tmacaroni.github.io/echosofastra/echosofastrabackground.webp",
   "defaultRessources": {
     "backgrounds": [],
-    "decksUrl": "https://tmacaroni.github.io/echosofastra/Starter Decks.json"
+    "decksUrl": "https://tmacaroni.github.io/echosofastra/StarterDecks.json"
   },
   "customHelp": "",
   "cardRotation": "90",
@@ -64,11 +64,9 @@
       "sections": {
         "customSections": [
           "CA2",
-          "Staging Area",
-          "Deck",
-          "Banish",
+          "Staging",
           "Graveyard ",
-          "Supply Area",
+          "Supply",
           "CA1",
           "CA3"
         ],
@@ -154,18 +152,7 @@
                   "style": false,
                   "content": [
                     {
-                      "section": "Banish",
-                      "style": false
-                    }
-                  ],
-                  "isSymetricalForOpponents": false
-                },
-                {
-                  "direction": "column",
-                  "style": false,
-                  "content": [
-                    {
-                      "section": "SupplyArea",
+                      "section": "Supply",
                       "style": false
                     }
                   ],
@@ -223,54 +210,6 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Deck ": {
-            "title": "Deck",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": false,
-            "displayedTitle": "",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "SupplyArea": {
-            "title": "SupplyArea",
-            "isHidden": "yes",
-            "height": "SMALL",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": "true",
-            "isHorizontalAllowed": false,
-            "displayedTitle": "",
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": true,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false,
-            "noQuickActions": false
-          },
-          "StagingArea": {
-            "title": "StagingArea",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": false,
-            "displayedTitle": "",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
           "CA1": {
             "title": "CA1",
             "isHidden": "no",
@@ -305,6 +244,38 @@
           },
           "CA3": {
             "title": "CA3",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Supply": {
+            "title": "Supply",
+            "isHidden": "yes",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": "true",
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": true,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": false
+          },
+          "Staging": {
+            "title": "Staging",
             "isHidden": "no",
             "height": "SMALL",
             "alignment": "CENTER",
