@@ -63,14 +63,14 @@
       "hideFacedDownCards": true,
       "sections": {
         "customSections": [
-          "Combat Area 2",
+          "CA2",
           "Staging Area",
           "Deck",
           "Banish",
           "Graveyard ",
           "Supply Area",
-          "Combat Area 1",
-          "Combat Area 3"
+          "CA1",
+          "CA3"
         ],
         "layout": {
           "direction": "column",
@@ -81,16 +81,37 @@
               "style": false,
               "content": [
                 {
-                  "section": "Combat Area 1",
-                  "style": false
+                  "direction": "row",
+                  "style": false,
+                  "content": [
+                    {
+                      "section": "CA1",
+                      "style": false
+                    }
+                  ],
+                  "isSymetricalForOpponents": false
                 },
                 {
-                  "section": "Combat Area 2 ",
-                  "style": false
+                  "direction": "row",
+                  "style": false,
+                  "content": [
+                    {
+                      "section": "CA2",
+                      "style": false
+                    }
+                  ],
+                  "isSymetricalForOpponents": false
                 },
                 {
-                  "section": "Combat Area 3",
-                  "style": false
+                  "direction": "row",
+                  "style": false,
+                  "content": [
+                    {
+                      "section": "CA3",
+                      "style": false
+                    }
+                  ],
+                  "isSymetricalForOpponents": false
                 }
               ],
               "isSymetricalForOpponents": false
@@ -104,7 +125,7 @@
                   "style": false,
                   "content": [
                     {
-                      "section": "Staging Area",
+                      "section": "Staging",
                       "style": false
                     }
                   ],
@@ -144,7 +165,7 @@
                   "style": false,
                   "content": [
                     {
-                      "section": "Supply Area",
+                      "section": "SupplyArea",
                       "style": false
                     }
                   ],
@@ -170,70 +191,6 @@
         "autoPlayFromHand": {},
         "autoPlayFromStack": {},
         "sectionsDict": {
-          "Supply Area": {
-            "title": "Supply Area",
-            "isHidden": "yes",
-            "height": "SMALL",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": "true",
-            "isHorizontalAllowed": false,
-            "displayedTitle": "",
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": true,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false,
-            "noQuickActions": false
-          },
-          "Combat Area 2": {
-            "title": "Combat Area 2",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": false,
-            "displayedTitle": "",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "Combat Area 3": {
-            "title": "Combat Area 3",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": false,
-            "displayedTitle": "",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "Staging Area": {
-            "title": "Staging Area",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": false,
-            "displayedTitle": "",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
           "Banish": {
             "title": "Banish",
             "isHidden": "no",
@@ -282,8 +239,72 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Combat Area 1": {
-            "title": "Combat Area 1",
+          "SupplyArea": {
+            "title": "SupplyArea",
+            "isHidden": "yes",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": "true",
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": true,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": false
+          },
+          "StagingArea": {
+            "title": "StagingArea",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "CA1": {
+            "title": "CA1",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "CA2": {
+            "title": "CA2",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "CA3": {
+            "title": "CA3",
             "isHidden": "no",
             "height": "SMALL",
             "alignment": "CENTER",
