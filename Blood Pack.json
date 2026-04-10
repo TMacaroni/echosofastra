@@ -1,0 +1,131 @@
+{
+  "title": "Blood Pact Starter Deck",
+  "id": "0599401f-e0da-491c-a133-111bd1c3c904",
+  "cardCount": 50,
+  "createdAt": "2026-04-10T01:10:59.276Z",
+  "lastModifiedAt": "2026-04-10T01:17:28.657Z",
+  "game": "Echos of Astra",
+  "format": [
+    "Standard"
+  ],
+  "deckList": {
+    "categoriesOrder": [
+      "Unit",
+      "Tactic",
+      "Territory",
+      "Item"
+    ],
+    "Unit": [
+      {
+        "count": 2,
+        "id": "IMP103"
+      },
+      {
+        "count": 2,
+        "id": "IMP104"
+      },
+      {
+        "count": 1,
+        "id": "IMP098"
+      },
+      {
+        "count": 2,
+        "id": "IMP107"
+      },
+      {
+        "count": 2,
+        "id": "IMP097"
+      },
+      {
+        "count": 2,
+        "id": "IMP109"
+      },
+      {
+        "count": 1,
+        "id": "IMP113"
+      },
+      {
+        "count": 3,
+        "id": "IMP018"
+      },
+      {
+        "count": 3,
+        "id": "IMP014"
+      },
+      {
+        "count": 2,
+        "id": "IMP002"
+      },
+      {
+        "count": 3,
+        "id": "IMP004"
+      },
+      {
+        "count": 3,
+        "id": "IMP013"
+      },
+      {
+        "count": 1,
+        "id": "IMP019"
+      },
+      {
+        "count": 1,
+        "id": "IMP003"
+      },
+      {
+        "count": 1,
+        "id": "IMP010"
+      },
+      {
+        "count": 1,
+        "id": "IMP106"
+      }
+    ],
+    "Tactic": [
+      {
+        "count": 2,
+        "id": "IMP121"
+      },
+      {
+        "count": 2,
+        "id": "IMP119"
+      },
+      {
+        "count": 2,
+        "id": "IMP117"
+      },
+      {
+        "count": 2,
+        "id": "IMP027"
+      },
+      {
+        "count": 2,
+        "id": "IMP024"
+      },
+      {
+        "count": 2,
+        "id": "IMP026"
+      }
+    ],
+    "Territory": [
+      {
+        "count": 2,
+        "id": "IMP126"
+      },
+      {
+        "count": 2,
+        "id": "IMP031"
+      }
+    ],
+    "Item": [
+      {
+        "count": 2,
+        "id": "IMP029"
+      },
+      {
+        "count": 2,
+        "id": "IMP028"
+      }
+    ]
+  }
+}
