@@ -2497,7 +2497,7 @@
   },
   "TOK001": {
     "id": "TOK001",
-    "isToken": false,
+    "isToken": true,
     "face": {
       "front": {
         "name": "Experiment Token",
@@ -2513,7 +2513,7 @@
   },
   "TOK002": {
     "id": "TOK002",
-    "isToken": false,
+    "isToken": true,
     "face": {
       "front": {
         "name": "Drone ",
