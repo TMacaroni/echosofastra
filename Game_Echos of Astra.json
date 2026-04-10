@@ -1,0 +1,302 @@
+{
+  "name": "Echos of Astra",
+  "menuBackgroundImage": "https://tmacaroni.github.io/echosofastra/echosofastrabackground.jpg",
+  "defaultRessources": {
+    "backgrounds": [],
+    "decksUrl": ""
+  },
+  "customHelp": "",
+  "cardRotation": "90",
+  "cards": {
+    "dataUrl": "https://tmacaroni.github.io/echosofastra/CardList.json",
+    "cardBack": "https://tmacaroni.github.io/echosofastra/cardback.jpg"
+  },
+  "deckBuilding": {
+    "mainFilters": [
+      "Unit",
+      "Item",
+      "Territory ",
+      "Tactic"
+    ],
+    "formats": [
+      {
+        "title": "Standard",
+        "gameplay": "Standard",
+        "customCategories": []
+      }
+    ]
+  },
+  "gameplay": {
+    "Standard": {
+      "mulligan": {
+        "info": "Choose to keep all or Mulligan",
+        "startingHandSize": "6",
+        "drawNewHand": true,
+        "putSelectionAtBottom": false,
+        "drawNewSelectedCards": false
+      },
+      "newTurn": {
+        "drawOnStart": false,
+        "sharedTurn": false,
+        "firstPlayerTokenName": "",
+        "drawPerTurn": 1
+      },
+      "defaultNotes": "",
+      "tokens": [
+        {
+          "name": "Experiment",
+          "image": "https://tmacaroni.github.io/echosofastra/experiment.jpg",
+          "isUnique": false,
+          "leavesAtEndOfTurn": false
+        },
+        {
+          "name": "Drone",
+          "image": "https://tmacaroni.github.io/echosofastra/drone.jpg",
+          "isUnique": false,
+          "leavesAtEndOfTurn": false
+        }
+      ],
+      "countersStartingValues": [
+        0
+      ],
+      "hideFacedDownCards": true,
+      "sections": {
+        "customSections": [
+          "Combat Zone ",
+          "Staging Area",
+          "Deck",
+          "Banish Pile",
+          "Graveyard ",
+          "Supply Area"
+        ],
+        "layout": {
+          "direction": "column",
+          "isSymetricalForOpponents": false,
+          "content": [
+            {
+              "direction": "row",
+              "style": false,
+              "content": [
+                {
+                  "section": "Combat Area 1",
+                  "style": false
+                },
+                {
+                  "section": "Combat Area 2 ",
+                  "style": false
+                },
+                {
+                  "section": "Combat Area 3",
+                  "style": false
+                }
+              ],
+              "isSymetricalForOpponents": false
+            },
+            {
+              "direction": "row",
+              "style": false,
+              "content": [
+                {
+                  "direction": "column",
+                  "style": false,
+                  "content": [
+                    {
+                      "section": "Staging Area",
+                      "style": false
+                    }
+                  ],
+                  "isSymetricalForOpponents": false
+                },
+                {
+                  "direction": "column",
+                  "style": false,
+                  "content": [
+                    {
+                      "section": "Deck",
+                      "style": false
+                    }
+                  ],
+                  "isSymetricalForOpponents": false
+                }
+              ],
+              "isSymetricalForOpponents": false
+            },
+            {
+              "direction": "row",
+              "style": false,
+              "content": [
+                {
+                  "direction": "column",
+                  "style": false,
+                  "content": [
+                    {
+                      "section": "Banish",
+                      "style": false
+                    }
+                  ],
+                  "isSymetricalForOpponents": false
+                },
+                {
+                  "direction": "column",
+                  "style": false,
+                  "content": [
+                    {
+                      "section": "Supply Area",
+                      "style": false
+                    }
+                  ],
+                  "isSymetricalForOpponents": false
+                },
+                {
+                  "direction": "column",
+                  "style": false,
+                  "content": [
+                    {
+                      "section": "Graveyard",
+                      "style": false
+                    }
+                  ],
+                  "isSymetricalForOpponents": false
+                }
+              ],
+              "isSymetricalForOpponents": false
+            }
+          ]
+        },
+        "categoriesAlreadyOnBoard": [],
+        "autoPlayFromHand": {},
+        "autoPlayFromStack": {},
+        "sectionsDict": {
+          "Supply Area": {
+            "title": "Supply Area",
+            "isHidden": "yes",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": "true",
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": true,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": false
+          },
+          "Combat Area 2": {
+            "title": "Combat Area 2",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Combat Area 3": {
+            "title": "Combat Area 3",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Staging Area": {
+            "title": "Staging Area",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Banish": {
+            "title": "Banish",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Graveyard": {
+            "title": "Graveyard",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Deck ": {
+            "title": "Deck",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Combat Area 1": {
+            "title": "Combat Area 1",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          }
+        }
+      }
+    }
+  }
+}
