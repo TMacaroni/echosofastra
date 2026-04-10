@@ -3,7 +3,7 @@
   "menuBackgroundImage": "https://tmacaroni.github.io/echosofastra/echosofastrabackground.jpg",
   "defaultRessources": {
     "backgrounds": [],
-    "decksUrl": ""
+    "decksUrl": "https://tmacaroni.github.io/echosofastra/Starter Decks.json"
   },
   "customHelp": "",
   "cardRotation": "90",
@@ -16,7 +16,8 @@
       "Unit",
       "Item",
       "Territory ",
-      "Tactic"
+      "Tactic",
+      "Token"
     ],
     "formats": [
       {
@@ -62,12 +63,14 @@
       "hideFacedDownCards": true,
       "sections": {
         "customSections": [
-          "Combat Zone ",
+          "Combat Area 2",
           "Staging Area",
           "Deck",
-          "Banish Pile",
+          "Banish",
           "Graveyard ",
-          "Supply Area"
+          "Supply Area",
+          "Combat Area 1",
+          "Combat Area 3"
         ],
         "layout": {
           "direction": "column",
@@ -170,7 +173,7 @@
           "Supply Area": {
             "title": "Supply Area",
             "isHidden": "yes",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": "true",
