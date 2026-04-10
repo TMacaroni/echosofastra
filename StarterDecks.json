@@ -132,5 +132,140 @@
       }
     ]
   }
+},
+{
+  "title": "Unity Starter Deck",
+  "id": "e40d641d-1683-4ddf-a17e-391eb633af04",
+  "cardCount": 50,
+  "createdAt": "2026-04-10T06:22:30.843Z",
+  "lastModifiedAt": "2026-04-10T06:25:53.185Z",
+  "game": "Echos of Astra",
+  "format": [
+    "Standard"
+  ],
+  "deckList": {
+    "categoriesOrder": [
+      "Unit",
+      "Tactic",
+      "Territory",
+      "Item"
+    ],
+    "Unit": [
+      {
+        "count": 2,
+        "id": "IMP034"
+      },
+      {
+        "count": 2,
+        "id": "IMP037"
+      },
+      {
+        "count": 1,
+        "id": "IMP140"
+      },
+      {
+        "count": 2,
+        "id": "IMP047"
+      },
+      {
+        "count": 2,
+        "id": "IMP134"
+      },
+      {
+        "count": 2,
+        "id": "IMP042"
+      },
+      {
+        "count": 2,
+        "id": "IMP043"
+      },
+      {
+        "count": 2,
+        "id": "IMP044"
+      },
+      {
+        "count": 2,
+        "id": "IMP045"
+      },
+      {
+        "count": 2,
+        "id": "IMP039"
+      },
+      {
+        "count": 1,
+        "id": "IMP040"
+      },
+      {
+        "count": 2,
+        "id": "IMP131"
+      },
+      {
+        "count": 1,
+        "id": "IMP046"
+      },
+      {
+        "count": 1,
+        "id": "IMP050"
+      },
+      {
+        "count": 1,
+        "id": "IMP041"
+      },
+      {
+        "count": 2,
+        "id": "IMP036"
+      },
+      {
+        "count": 2,
+        "id": "IMP129"
+      }
+    ],
+    "Tactic": [
+      {
+        "count": 3,
+        "id": "IMP151"
+      },
+      {
+        "count": 2,
+        "id": "IMP052"
+      },
+      {
+        "count": 2,
+        "id": "IMP055"
+      },
+      {
+        "count": 2,
+        "id": "IMP053"
+      },
+      {
+        "count": 2,
+        "id": "IMP150"
+      },
+      {
+        "count": 2,
+        "id": "IMP056"
+      }
+    ],
+    "Territory": [
+      {
+        "count": 2,
+        "id": "IMP156"
+      },
+      {
+        "count": 2,
+        "id": "IMP062"
+      }
+    ],
+    "Item": [
+      {
+        "count": 2,
+        "id": "IMP154"
+      },
+      {
+        "count": 2,
+        "id": "IMP060"
+      }
+    ]
+  }
 }
 ]
