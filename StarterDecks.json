@@ -128,8 +128,9 @@
       }
     ]
   }
+}
 
-  {
+{
   "title": "Unity Starter Deck",
   "id": "1bc65d42-15db-4e1b-b79a-8af871615b84",
   "cardCount": 50,
@@ -263,5 +264,4 @@
       }
     ]
   }
-}
 }
