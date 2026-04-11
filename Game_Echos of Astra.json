@@ -9,7 +9,7 @@
   "cardRotation": "90",
   "cards": {
     "dataUrl": "https://tmacaroni.github.io/echosofastra/CardList.json",
-    "cardBack": "https://tmacaroni.github.io/echosofastra/cardback.jpg"
+    "cardBack": "https://assets.echoesofastra.com/icons/CardTemplate_CardBack.png"
   },
   "deckBuilding": {
     "mainFilters": [
