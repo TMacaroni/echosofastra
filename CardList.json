@@ -7,12 +7,14 @@
         "type": "Unit",
         "cost": 6,
         "image": "https://assets.echoesofastra.com/cards/IMP001_AssimilatingAbomination_web.png",
+        "affinity": "Nox",
         "isHorizontal": false
       }
     },
     "name": "Assimilating Abomination",
     "type": "Unit",
-    "cost": 6
+    "cost": 6,
+    "affinity": "Nox"
   },
   "IMP002": {
     "id": "IMP002",
@@ -22,12 +24,14 @@
         "type": "Unit",
         "cost": 3,
         "image": "https://assets.echoesofastra.com/cards/IMP002_CadaverSupplier_web.png",
+        "affinity": "Nox",
         "isHorizontal": false
       }
     },
     "name": "Cadaver Supplier",
     "type": "Unit",
-    "cost": 3
+    "cost": 3,
+    "affinity": "Nox"
   },
   "IMP003": {
     "id": "IMP003",
@@ -37,12 +41,14 @@
         "type": "Unit",
         "cost": 4,
         "image": "https://assets.echoesofastra.com/cards/IMP003_Calico,theBloodWitch_web.png",
+        "affinity": "Nox",
         "isHorizontal": false
       }
     },
     "name": "Calico, the Blood Witch",
     "type": "Unit",
-    "cost": 4
+    "cost": 4,
+    "affinity": "Nox"
   },
   "IMP004": {
     "id": "IMP004",
@@ -52,12 +58,14 @@
         "type": "Unit",
         "cost": 3,
         "image": "https://assets.echoesofastra.com/cards/IMP004_DemonicBerserker_web.png",
+        "affinity": "Nox",
         "isHorizontal": false
       }
     },
     "name": "Demonic Berserker",
     "type": "Unit",
-    "cost": 3
+    "cost": 3,
+    "affinity": "Nox"
   },
   "IMP005": {
     "id": "IMP005",
@@ -67,12 +75,14 @@
         "type": "Unit",
         "cost": 4,
         "image": "https://assets.echoesofastra.com/cards/IMP005_DreadscytheMyrmidon_web.png",
+        "affinity": "Nox",
         "isHorizontal": false
       }
     },
     "name": "Dreadscythe Myrmidon",
     "type": "Unit",
-    "cost": 4
+    "cost": 4,
+    "affinity": "Nox"
   },
   "IMP006": {
     "id": "IMP006",
@@ -82,12 +92,14 @@
         "type": "Unit",
         "cost": 7,
         "image": "https://assets.echoesofastra.com/cards/IMP006_EbonblightInvoker_web.png",
+        "affinity": "Nox",
         "isHorizontal": false
       }
     },
     "name": "Ebonblight Invoker",
     "type": "Unit",
-    "cost": 7
+    "cost": 7,
+    "affinity": "Nox"
   },
   "IMP007": {
     "id": "IMP007",
@@ -97,12 +109,14 @@
         "type": "Unit",
         "cost": 1,
         "image": "https://assets.echoesofastra.com/cards/IMP007_GuineaPig_web.png",
+        "affinity": "Nox",
         "isHorizontal": false
       }
     },
     "name": "Guinea Pig",
     "type": "Unit",
-    "cost": 1
+    "cost": 1,
+    "affinity": "Nox"
   },
   "IMP008": {
     "id": "IMP008",
@@ -112,12 +126,14 @@
         "type": "Unit",
         "cost": 5,
         "image": "https://assets.echoesofastra.com/cards/IMP008_HellfireRavager_web.png",
+        "affinity": "Nox",
         "isHorizontal": false
       }
     },
     "name": "Hellfire Ravager",
     "type": "Unit",
-    "cost": 5
+    "cost": 5,
+    "affinity": "Nox"
   },
   "IMP009": {
     "id": "IMP009",
@@ -127,12 +143,14 @@
         "type": "Unit",
         "cost": 5,
         "image": "https://assets.echoesofastra.com/cards/IMP009_Jormun,FeldragonofWyrmscar_web.png",
+        "affinity": "Nox",
         "isHorizontal": false
       }
     },
     "name": "Jormun, Feldragon of Wyrmscar",
     "type": "Unit",
-    "cost": 5
+    "cost": 5,
+    "affinity": "Nox"
   },
   "IMP010": {
     "id": "IMP010",
@@ -142,12 +160,14 @@
         "type": "Unit",
         "cost": 6,
         "image": "https://assets.echoesofastra.com/cards/IMP010_Lucille,BloodBaroness_web.png",
+        "affinity": "Nox",
         "isHorizontal": false
       }
     },
     "name": "Lucille, Blood Baroness",
     "type": "Unit",
-    "cost": 6
+    "cost": 6,
+    "affinity": "Nox"
   },
   "IMP011": {
     "id": "IMP011",
@@ -157,12 +177,14 @@
         "type": "Unit",
         "cost": 8,
         "image": "https://assets.echoesofastra.com/cards/IMP011_Nerezza,UmbrascoScion_web.png",
+        "affinity": "Nox",
         "isHorizontal": false
       }
     },
     "name": "Nerezza, Umbrasco Scion",
     "type": "Unit",
-    "cost": 8
+    "cost": 8,
+    "affinity": "Nox"
   },
   "IMP012": {
     "id": "IMP012",
@@ -172,12 +194,14 @@
         "type": "Unit",
         "cost": 3,
         "image": "https://assets.echoesofastra.com/cards/IMP012_NocturneAgent_web.png",
+        "affinity": "Nox",
         "isHorizontal": false
       }
     },
     "name": "Nocturne Agent",
     "type": "Unit",
-    "cost": 3
+    "cost": 3,
+    "affinity": "Nox"
   },
   "IMP013": {
     "id": "IMP013",
@@ -187,12 +211,14 @@
         "type": "Unit",
         "cost": 3,
         "image": "https://assets.echoesofastra.com/cards/IMP013_NoxhavenEnforcer_web.png",
+        "affinity": "Nox",
         "isHorizontal": false
       }
     },
     "name": "Noxhaven Enforcer",
     "type": "Unit",
-    "cost": 3
+    "cost": 3,
+    "affinity": "Nox"
   },
   "IMP014": {
     "id": "IMP014",
@@ -202,12 +228,14 @@
         "type": "Unit",
         "cost": 2,
         "image": "https://assets.echoesofastra.com/cards/IMP014_NoxhavenResearcher_web.png",
+        "affinity": "Nox",
         "isHorizontal": false
       }
     },
     "name": "Noxhaven Researcher",
     "type": "Unit",
-    "cost": 2
+    "cost": 2,
+    "affinity": "Nox"
   },
   "IMP015": {
     "id": "IMP015",
@@ -217,12 +245,14 @@
         "type": "Unit",
         "cost": 6,
         "image": "https://assets.echoesofastra.com/cards/IMP015_Tenebrosa,DestroyerofHope_web.png",
+        "affinity": "Nox",
         "isHorizontal": false
       }
     },
     "name": "Tenebrosa, Destroyer of Hope",
     "type": "Unit",
-    "cost": 6
+    "cost": 6,
+    "affinity": "Nox"
   },
   "IMP016": {
     "id": "IMP016",
@@ -232,12 +262,14 @@
         "type": "Unit",
         "cost": 4,
         "image": "https://assets.echoesofastra.com/cards/IMP016_ValrathianCommissar_web.png",
+        "affinity": "Nox",
         "isHorizontal": false
       }
     },
     "name": "Valrathian Commissar",
     "type": "Unit",
-    "cost": 4
+    "cost": 4,
+    "affinity": "Nox"
   },
   "IMP017": {
     "id": "IMP017",
@@ -247,12 +279,14 @@
         "type": "Unit",
         "cost": 2,
         "image": "https://assets.echoesofastra.com/cards/IMP017_ValrathianZealot_web.png",
+        "affinity": "Nox",
         "isHorizontal": false
       }
     },
     "name": "Valrathian Zealot",
     "type": "Unit",
-    "cost": 2
+    "cost": 2,
+    "affinity": "Nox"
   },
   "IMP018": {
     "id": "IMP018",
@@ -262,12 +296,14 @@
         "type": "Unit",
         "cost": 1,
         "image": "https://assets.echoesofastra.com/cards/IMP018_VampireRetainer_web.png",
+        "affinity": "Nox",
         "isHorizontal": false
       }
     },
     "name": "Vampire Retainer",
     "type": "Unit",
-    "cost": 1
+    "cost": 1,
+    "affinity": "Nox"
   },
   "IMP019": {
     "id": "IMP019",
@@ -277,12 +313,14 @@
         "type": "Unit",
         "cost": 3,
         "image": "https://assets.echoesofastra.com/cards/IMP019_Vermillion,GhastlyResearcher_web.png",
+        "affinity": "Nox",
         "isHorizontal": false
       }
     },
     "name": "Vermillion, Ghastly Researcher",
     "type": "Unit",
-    "cost": 3
+    "cost": 3,
+    "affinity": "Nox"
   },
   "IMP020": {
     "id": "IMP020",
@@ -292,12 +330,14 @@
         "type": "Tactic",
         "cost": 2,
         "image": "https://assets.echoesofastra.com/cards/IMP020_ContagiousDisposal_web.png",
+        "affinity": "Nox",
         "isHorizontal": false
       }
     },
     "name": "Contagious Disposal",
     "type": "Tactic",
-    "cost": 2
+    "cost": 2,
+    "affinity": "Nox"
   },
   "IMP021": {
     "id": "IMP021",
@@ -307,12 +347,14 @@
         "type": "Tactic",
         "cost": 1,
         "image": "https://assets.echoesofastra.com/cards/IMP021_DemonicAdvance_web.png",
+        "affinity": "Nox",
         "isHorizontal": false
       }
     },
     "name": "Demonic Advance",
     "type": "Tactic",
-    "cost": 1
+    "cost": 1,
+    "affinity": "Nox"
   },
   "IMP022": {
     "id": "IMP022",
@@ -322,12 +364,14 @@
         "type": "Tactic",
         "cost": 8,
         "image": "https://assets.echoesofastra.com/cards/IMP022_Exterminate_web.png",
+        "affinity": "Nox",
         "isHorizontal": false
       }
     },
     "name": "Exterminate",
     "type": "Tactic",
-    "cost": 8
+    "cost": 8,
+    "affinity": "Nox"
   },
   "IMP023": {
     "id": "IMP023",
@@ -337,12 +381,14 @@
         "type": "Tactic",
         "cost": 4,
         "image": "https://assets.echoesofastra.com/cards/IMP023_EyeforanEye_web.png",
+        "affinity": "Nox",
         "isHorizontal": false
       }
     },
     "name": "Eye for an Eye",
     "type": "Tactic",
-    "cost": 4
+    "cost": 4,
+    "affinity": "Nox"
   },
   "IMP024": {
     "id": "IMP024",
@@ -352,12 +398,14 @@
         "type": "Tactic",
         "cost": 2,
         "image": "https://assets.echoesofastra.com/cards/IMP024_UnethicalResearch_web.png",
+        "affinity": "Nox",
         "isHorizontal": false
       }
     },
     "name": "Unethical Research",
     "type": "Tactic",
-    "cost": 2
+    "cost": 2,
+    "affinity": "Nox"
   },
   "IMP025": {
     "id": "IMP025",
@@ -367,12 +415,14 @@
         "type": "Tactic",
         "cost": 1,
         "image": "https://assets.echoesofastra.com/cards/IMP025_BlindingMist_web.png",
+        "affinity": "Nox",
         "isHorizontal": false
       }
     },
     "name": "Blinding Mist",
     "type": "Tactic",
-    "cost": 1
+    "cost": 1,
+    "affinity": "Nox"
   },
   "IMP026": {
     "id": "IMP026",
@@ -382,12 +432,14 @@
         "type": "Tactic",
         "cost": 5,
         "image": "https://assets.echoesofastra.com/cards/IMP026_KillingBlow_web.png",
+        "affinity": "Nox",
         "isHorizontal": false
       }
     },
     "name": "Killing Blow",
     "type": "Tactic",
-    "cost": 5
+    "cost": 5,
+    "affinity": "Nox"
   },
   "IMP027": {
     "id": "IMP027",
@@ -397,12 +449,14 @@
         "type": "Tactic",
         "cost": 2,
         "image": "https://assets.echoesofastra.com/cards/IMP027_QuashInsurrection_web.png",
+        "affinity": "Nox",
         "isHorizontal": false
       }
     },
     "name": "Quash Insurrection",
     "type": "Tactic",
-    "cost": 2
+    "cost": 2,
+    "affinity": "Nox"
   },
   "IMP028": {
     "id": "IMP028",
@@ -412,12 +466,14 @@
         "type": "Item",
         "cost": 4,
         "image": "https://assets.echoesofastra.com/cards/IMP028_ExperimentalAugment_web.png",
+        "affinity": "Nox",
         "isHorizontal": false
       }
     },
     "name": "Experimental Augment",
     "type": "Item",
-    "cost": 4
+    "cost": 4,
+    "affinity": "Nox"
   },
   "IMP029": {
     "id": "IMP029",
@@ -427,12 +483,14 @@
         "type": "Item",
         "cost": 2,
         "image": "https://assets.echoesofastra.com/cards/IMP029_ExplosiveAugment_web.png",
+        "affinity": "Nox",
         "isHorizontal": false
       }
     },
     "name": "Explosive Augment",
     "type": "Item",
-    "cost": 2
+    "cost": 2,
+    "affinity": "Nox"
   },
   "IMP030": {
     "id": "IMP030",
@@ -442,12 +500,14 @@
         "type": "Territory",
         "cost": 3,
         "image": "https://assets.echoesofastra.com/cards/IMP030_BlightedRuins_web.png",
+        "affinity": "Nox",
         "isHorizontal": false
       }
     },
     "name": "Blighted Ruins",
     "type": "Territory",
-    "cost": 3
+    "cost": 3,
+    "affinity": "Nox"
   },
   "IMP031": {
     "id": "IMP031",
@@ -457,12 +517,14 @@
         "type": "Territory",
         "cost": 2,
         "image": "https://assets.echoesofastra.com/cards/IMP031_NoxhavenLaboratory_web.png",
+        "affinity": "Nox",
         "isHorizontal": false
       }
     },
     "name": "Noxhaven Laboratory",
     "type": "Territory",
-    "cost": 2
+    "cost": 2,
+    "affinity": "Nox"
   },
   "IMP032": {
     "id": "IMP032",
@@ -472,12 +534,14 @@
         "type": "Territory",
         "cost": 4,
         "image": "https://assets.echoesofastra.com/cards/IMP032_TheHideout_web.png",
+        "affinity": "Nox",
         "isHorizontal": false
       }
     },
     "name": "The Hideout",
     "type": "Territory",
-    "cost": 4
+    "cost": 4,
+    "affinity": "Nox"
   },
   "IMP033": {
     "id": "IMP033",
@@ -487,12 +551,14 @@
         "type": "Unit",
         "cost": 2,
         "image": "https://assets.echoesofastra.com/cards/IMP033_AegisDefender_web.png",
+        "affinity": "Lux",
         "isHorizontal": false
       }
     },
     "name": "Aegis Defender",
     "type": "Unit",
-    "cost": 2
+    "cost": 2,
+    "affinity": "Lux"
   },
   "IMP034": {
     "id": "IMP034",
@@ -502,12 +568,14 @@
         "type": "Unit",
         "cost": 4,
         "image": "https://assets.echoesofastra.com/cards/IMP034_AegisGuardian_web.png",
+        "affinity": "Lux",
         "isHorizontal": false
       }
     },
     "name": "Aegis Guardian",
     "type": "Unit",
-    "cost": 4
+    "cost": 4,
+    "affinity": "Lux"
   },
   "IMP035": {
     "id": "IMP035",
@@ -517,12 +585,14 @@
         "type": "Unit",
         "cost": 7,
         "image": "https://assets.echoesofastra.com/cards/IMP035_ArgentumTank_web.png",
+        "affinity": "Lux",
         "isHorizontal": false
       }
     },
     "name": "Argentum Tank",
     "type": "Unit",
-    "cost": 7
+    "cost": 7,
+    "affinity": "Lux"
   },
   "IMP036": {
     "id": "IMP036",
@@ -532,12 +602,14 @@
         "type": "Unit",
         "cost": 6,
         "image": "https://assets.echoesofastra.com/cards/IMP036_ArmoredCarrier_web.png",
+        "affinity": "Lux",
         "isHorizontal": false
       }
     },
     "name": "Armored Carrier",
     "type": "Unit",
-    "cost": 6
+    "cost": 6,
+    "affinity": "Lux"
   },
   "IMP037": {
     "id": "IMP037",
@@ -547,12 +619,14 @@
         "type": "Unit",
         "cost": 1,
         "image": "https://assets.echoesofastra.com/cards/IMP037_BannerSquire_web.png",
+        "affinity": "Lux",
         "isHorizontal": false
       }
     },
     "name": "Banner Squire",
     "type": "Unit",
-    "cost": 1
+    "cost": 1,
+    "affinity": "Lux"
   },
   "IMP038": {
     "id": "IMP038",
@@ -562,12 +636,14 @@
         "type": "Unit",
         "cost": 1,
         "image": "https://assets.echoesofastra.com/cards/IMP038_Biscuit,EverVigilant_web.png",
+        "affinity": "Lux",
         "isHorizontal": false
       }
     },
     "name": "Biscuit, Ever Vigilant",
     "type": "Unit",
-    "cost": 1
+    "cost": 1,
+    "affinity": "Lux"
   },
   "IMP039": {
     "id": "IMP039",
@@ -577,12 +653,14 @@
         "type": "Unit",
         "cost": 3,
         "image": "https://assets.echoesofastra.com/cards/IMP039_BladewolfTemplar_web.png",
+        "affinity": "Lux",
         "isHorizontal": false
       }
     },
     "name": "Bladewolf Templar",
     "type": "Unit",
-    "cost": 3
+    "cost": 3,
+    "affinity": "Lux"
   },
   "IMP040": {
     "id": "IMP040",
@@ -592,12 +670,14 @@
         "type": "Unit",
         "cost": 3,
         "image": "https://assets.echoesofastra.com/cards/IMP040_Brynn,theDestroyer_web.png",
+        "affinity": "Lux",
         "isHorizontal": false
       }
     },
     "name": "Brynn, the Destroyer",
     "type": "Unit",
-    "cost": 3
+    "cost": 3,
+    "affinity": "Lux"
   },
   "IMP041": {
     "id": "IMP041",
@@ -607,12 +687,14 @@
         "type": "Unit",
         "cost": 5,
         "image": "https://assets.echoesofastra.com/cards/IMP041_Celeste,ConcordPaladin_web.png",
+        "affinity": "Lux",
         "isHorizontal": false
       }
     },
     "name": "Celeste, Concord Paladin",
     "type": "Unit",
-    "cost": 5
+    "cost": 5,
+    "affinity": "Lux"
   },
   "IMP042": {
     "id": "IMP042",
@@ -622,12 +704,14 @@
         "type": "Unit",
         "cost": 2,
         "image": "https://assets.echoesofastra.com/cards/IMP042_ConcordStrategist_web.png",
+        "affinity": "Lux",
         "isHorizontal": false
       }
     },
     "name": "Concord Strategist",
     "type": "Unit",
-    "cost": 2
+    "cost": 2,
+    "affinity": "Lux"
   },
   "IMP043": {
     "id": "IMP043",
@@ -637,12 +721,14 @@
         "type": "Unit",
         "cost": 3,
         "image": "https://assets.echoesofastra.com/cards/IMP043_FarsightOperative_web.png",
+        "affinity": "Lux",
         "isHorizontal": false
       }
     },
     "name": "Farsight Operative",
     "type": "Unit",
-    "cost": 3
+    "cost": 3,
+    "affinity": "Lux"
   },
   "IMP044": {
     "id": "IMP044",
@@ -652,12 +738,14 @@
         "type": "Unit",
         "cost": 3,
         "image": "https://assets.echoesofastra.com/cards/IMP044_FrontlineOfficer_web.png",
+        "affinity": "Lux",
         "isHorizontal": false
       }
     },
     "name": "Frontline Officer",
     "type": "Unit",
-    "cost": 3
+    "cost": 3,
+    "affinity": "Lux"
   },
   "IMP045": {
     "id": "IMP045",
@@ -667,12 +755,14 @@
         "type": "Unit",
         "cost": 3,
         "image": "https://assets.echoesofastra.com/cards/IMP045_NekoraMedic_web.png",
+        "affinity": "Lux",
         "isHorizontal": false
       }
     },
     "name": "Nekora Medic",
     "type": "Unit",
-    "cost": 3
+    "cost": 3,
+    "affinity": "Lux"
   },
   "IMP046": {
     "id": "IMP046",
@@ -682,12 +772,14 @@
         "type": "Unit",
         "cost": 4,
         "image": "https://assets.echoesofastra.com/cards/IMP046_Selena,VoiceofUnity_web.png",
+        "affinity": "Lux",
         "isHorizontal": false
       }
     },
     "name": "Selena, Voice of Unity",
     "type": "Unit",
-    "cost": 4
+    "cost": 4,
+    "affinity": "Lux"
   },
   "IMP047": {
     "id": "IMP047",
@@ -697,12 +789,14 @@
         "type": "Unit",
         "cost": 2,
         "image": "https://assets.echoesofastra.com/cards/IMP047_SentinelTrooper_web.png",
+        "affinity": "Lux",
         "isHorizontal": false
       }
     },
     "name": "Sentinel Trooper",
     "type": "Unit",
-    "cost": 2
+    "cost": 2,
+    "affinity": "Lux"
   },
   "IMP048": {
     "id": "IMP048",
@@ -712,12 +806,14 @@
         "type": "Unit",
         "cost": 7,
         "image": "https://assets.echoesofastra.com/cards/IMP048_Seraphiel,HeraldofLight_web.png",
+        "affinity": "Lux",
         "isHorizontal": false
       }
     },
     "name": "Seraphiel, Herald of Light",
     "type": "Unit",
-    "cost": 7
+    "cost": 7,
+    "affinity": "Lux"
   },
   "IMP049": {
     "id": "IMP049",
@@ -727,12 +823,14 @@
         "type": "Unit",
         "cost": 5,
         "image": "https://assets.echoesofastra.com/cards/IMP049_StormhammerHowitzer_web.png",
+        "affinity": "Lux",
         "isHorizontal": false
       }
     },
     "name": "Stormhammer Howitzer",
     "type": "Unit",
-    "cost": 5
+    "cost": 5,
+    "affinity": "Lux"
   },
   "IMP050": {
     "id": "IMP050",
@@ -742,12 +840,14 @@
         "type": "Unit",
         "cost": 4,
         "image": "https://assets.echoesofastra.com/cards/IMP050_VanguardMech_web.png",
+        "affinity": "Lux",
         "isHorizontal": false
       }
     },
     "name": "Vanguard Mech",
     "type": "Unit",
-    "cost": 4
+    "cost": 4,
+    "affinity": "Lux"
   },
   "IMP051": {
     "id": "IMP051",
@@ -757,12 +857,14 @@
         "type": "Unit",
         "cost": 6,
         "image": "https://assets.echoesofastra.com/cards/IMP051_Vero,CaptainoftheGuard_web.png",
+        "affinity": "Lux",
         "isHorizontal": false
       }
     },
     "name": "Vero, Captain of the Guard ",
     "type": "Unit",
-    "cost": 6
+    "cost": 6,
+    "affinity": "Lux"
   },
   "IMP052": {
     "id": "IMP052",
@@ -772,12 +874,14 @@
         "type": "Tactic",
         "cost": 3,
         "image": "https://assets.echoesofastra.com/cards/IMP052_ArtilleryBarrage_web.png",
+        "affinity": "Lux",
         "isHorizontal": false
       }
     },
     "name": "Artillery Barrage",
     "type": "Tactic",
-    "cost": 3
+    "cost": 3,
+    "affinity": "Lux"
   },
   "IMP053": {
     "id": "IMP053",
@@ -787,12 +891,14 @@
         "type": "Tactic",
         "cost": 3,
         "image": "https://assets.echoesofastra.com/cards/IMP053_CommunityEffort_web.png",
+        "affinity": "Lux",
         "isHorizontal": false
       }
     },
     "name": "Community Effort",
     "type": "Tactic",
-    "cost": 3
+    "cost": 3,
+    "affinity": "Lux"
   },
   "IMP054": {
     "id": "IMP054",
@@ -802,12 +908,14 @@
         "type": "Tactic",
         "cost": 3,
         "image": "https://assets.echoesofastra.com/cards/IMP054_Resuscitate_web.png",
+        "affinity": "Lux",
         "isHorizontal": false
       }
     },
     "name": "Resuscitate",
     "type": "Tactic",
-    "cost": 3
+    "cost": 3,
+    "affinity": "Lux"
   },
   "IMP055": {
     "id": "IMP055",
@@ -817,12 +925,14 @@
         "type": "Tactic",
         "cost": 1,
         "image": "https://assets.echoesofastra.com/cards/IMP055_Smokescreen_web.png",
+        "affinity": "Lux",
         "isHorizontal": false
       }
     },
     "name": "Smokescreen",
     "type": "Tactic",
-    "cost": 1
+    "cost": 1,
+    "affinity": "Lux"
   },
   "IMP056": {
     "id": "IMP056",
@@ -832,12 +942,14 @@
         "type": "Tactic",
         "cost": 6,
         "image": "https://assets.echoesofastra.com/cards/IMP056_Suppression_web.png",
+        "affinity": "Lux",
         "isHorizontal": false
       }
     },
     "name": "Suppression",
     "type": "Tactic",
-    "cost": 6
+    "cost": 6,
+    "affinity": "Lux"
   },
   "IMP057": {
     "id": "IMP057",
@@ -847,12 +959,14 @@
         "type": "Tactic",
         "cost": 2,
         "image": "https://assets.echoesofastra.com/cards/IMP057_EmergencyExtraction_web.png",
+        "affinity": "Lux",
         "isHorizontal": false
       }
     },
     "name": "Emergency Extraction",
     "type": "Tactic",
-    "cost": 2
+    "cost": 2,
+    "affinity": "Lux"
   },
   "IMP058": {
     "id": "IMP058",
@@ -862,12 +976,14 @@
         "type": "Tactic",
         "cost": 2,
         "image": "https://assets.echoesofastra.com/cards/IMP058_MusterforBattle_web.png",
+        "affinity": "Lux",
         "isHorizontal": false
       }
     },
     "name": "Muster for Battle",
     "type": "Tactic",
-    "cost": 2
+    "cost": 2,
+    "affinity": "Lux"
   },
   "IMP059": {
     "id": "IMP059",
@@ -877,12 +993,14 @@
         "type": "Item",
         "cost": 2,
         "image": "https://assets.echoesofastra.com/cards/IMP059_PulseguardArmor_web.png",
+        "affinity": "Lux",
         "isHorizontal": false
       }
     },
     "name": "Pulseguard Armor",
     "type": "Item",
-    "cost": 2
+    "cost": 2,
+    "affinity": "Lux"
   },
   "IMP060": {
     "id": "IMP060",
@@ -892,12 +1010,14 @@
         "type": "Item",
         "cost": 4,
         "image": "https://assets.echoesofastra.com/cards/IMP060_VanguardPowerSuit_web.png",
+        "affinity": "Lux",
         "isHorizontal": false
       }
     },
     "name": "Vanguard Power Suit",
     "type": "Item",
-    "cost": 4
+    "cost": 4,
+    "affinity": "Lux"
   },
   "IMP061": {
     "id": "IMP061",
@@ -907,12 +1027,14 @@
         "type": "Territory",
         "cost": 2,
         "image": "https://assets.echoesofastra.com/cards/IMP061_FortunaBank_web.png",
+        "affinity": "Lux",
         "isHorizontal": false
       }
     },
     "name": "Fortuna Bank",
     "type": "Territory",
-    "cost": 2
+    "cost": 2,
+    "affinity": "Lux"
   },
   "IMP062": {
     "id": "IMP062",
@@ -922,12 +1044,14 @@
         "type": "Territory",
         "cost": 2,
         "image": "https://assets.echoesofastra.com/cards/IMP062_HallowedSanctum_web.png",
+        "affinity": "Lux",
         "isHorizontal": false
       }
     },
     "name": "Hallowed Sanctum",
     "type": "Territory",
-    "cost": 2
+    "cost": 2,
+    "affinity": "Lux"
   },
   "IMP063": {
     "id": "IMP063",
@@ -937,12 +1061,14 @@
         "type": "Territory",
         "cost": 2,
         "image": "https://assets.echoesofastra.com/cards/IMP063_QuarantineZone_web.png",
+        "affinity": "Lux",
         "isHorizontal": false
       }
     },
     "name": "Quarantine Zone",
     "type": "Territory",
-    "cost": 2
+    "cost": 2,
+    "affinity": "Lux"
   },
   "IMP064": {
     "id": "IMP064",
@@ -952,12 +1078,14 @@
         "type": "Unit",
         "cost": 8,
         "image": "https://assets.echoesofastra.com/cards/IMP064_CloudbreachLeviathan_web.png",
+        "affinity": "Caelum",
         "isHorizontal": false
       }
     },
     "name": "Cloudbreach Leviathan",
     "type": "Unit",
-    "cost": 8
+    "cost": 8,
+    "affinity": "Caelum"
   },
   "IMP065": {
     "id": "IMP065",
@@ -967,12 +1095,14 @@
         "type": "Unit",
         "cost": 2,
         "image": "https://assets.echoesofastra.com/cards/IMP065_CourierDrone_web.png",
+        "affinity": "Caelum",
         "isHorizontal": false
       }
     },
     "name": "Courier Drone",
     "type": "Unit",
-    "cost": 2
+    "cost": 2,
+    "affinity": "Caelum"
   },
   "IMP066": {
     "id": "IMP066",
@@ -982,12 +1112,14 @@
         "type": "Unit",
         "cost": 4,
         "image": "https://assets.echoesofastra.com/cards/IMP066_GenesisIII,DeusVolare_web.png",
+        "affinity": "Caelum",
         "isHorizontal": false
       }
     },
     "name": "Genesis III, Deus Volare",
     "type": "Unit",
-    "cost": 4
+    "cost": 4,
+    "affinity": "Caelum"
   },
   "IMP067": {
     "id": "IMP067",
@@ -997,12 +1129,14 @@
         "type": "Unit",
         "cost": 6,
         "image": "https://assets.echoesofastra.com/cards/IMP067_ImperialSkyfortress_web.png",
+        "affinity": "Caelum",
         "isHorizontal": false
       }
     },
     "name": "Imperial Skyfortress",
     "type": "Unit",
-    "cost": 6
+    "cost": 6,
+    "affinity": "Caelum"
   },
   "IMP068": {
     "id": "IMP068",
@@ -1012,12 +1146,14 @@
         "type": "Unit",
         "cost": 1,
         "image": "https://assets.echoesofastra.com/cards/IMP068_InquisitionDrone_web.png",
+        "affinity": "Caelum",
         "isHorizontal": false
       }
     },
     "name": "Inquisition Drone",
     "type": "Unit",
-    "cost": 1
+    "cost": 1,
+    "affinity": "Caelum"
   },
   "IMP069": {
     "id": "IMP069",
@@ -1027,12 +1163,14 @@
         "type": "Unit",
         "cost": 5,
         "image": "https://assets.echoesofastra.com/cards/IMP069_LevitarCavalry_web.png",
+        "affinity": "Caelum",
         "isHorizontal": false
       }
     },
     "name": "Levitar Cavalry",
     "type": "Unit",
-    "cost": 5
+    "cost": 5,
+    "affinity": "Caelum"
   },
   "IMP070": {
     "id": "IMP070",
@@ -1042,12 +1180,14 @@
         "type": "Unit",
         "cost": 2,
         "image": "https://assets.echoesofastra.com/cards/IMP070_LevitarInquisitor_web.png",
+        "affinity": "Caelum",
         "isHorizontal": false
       }
     },
     "name": "Levitar Inquisitor",
     "type": "Unit",
-    "cost": 2
+    "cost": 2,
+    "affinity": "Caelum"
   },
   "IMP071": {
     "id": "IMP071",
@@ -1057,12 +1197,14 @@
         "type": "Unit",
         "cost": 3,
         "image": "https://assets.echoesofastra.com/cards/IMP071_LockdownEnforcer_web.png",
+        "affinity": "Caelum",
         "isHorizontal": false
       }
     },
     "name": "Lockdown Enforcer",
     "type": "Unit",
-    "cost": 3
+    "cost": 3,
+    "affinity": "Caelum"
   },
   "IMP072": {
     "id": "IMP072",
@@ -1072,12 +1214,14 @@
         "type": "Unit",
         "cost": 2,
         "image": "https://assets.echoesofastra.com/cards/IMP072_MasterStrategist_web.png",
+        "affinity": "Caelum",
         "isHorizontal": false
       }
     },
     "name": "Master Strategist",
     "type": "Unit",
-    "cost": 2
+    "cost": 2,
+    "affinity": "Caelum"
   },
   "IMP073": {
     "id": "IMP073",
@@ -1087,12 +1231,14 @@
         "type": "Unit",
         "cost": 3,
         "image": "https://assets.echoesofastra.com/cards/IMP073_Renata,SkyborneOrphan_web.png",
+        "affinity": "Caelum",
         "isHorizontal": false
       }
     },
     "name": "Renata, Skyborne Orphan",
     "type": "Unit",
-    "cost": 3
+    "cost": 3,
+    "affinity": "Caelum"
   },
   "IMP074": {
     "id": "IMP074",
@@ -1102,12 +1248,14 @@
         "type": "Unit",
         "cost": 4,
         "image": "https://assets.echoesofastra.com/cards/IMP074_RepulsiveExperiment_web.png",
+        "affinity": "Caelum",
         "isHorizontal": false
       }
     },
     "name": "Repulsive Experiment",
     "type": "Unit",
-    "cost": 4
+    "cost": 4,
+    "affinity": "Caelum"
   },
   "IMP075": {
     "id": "IMP075",
@@ -1117,12 +1265,14 @@
         "type": "Unit",
         "cost": 3,
         "image": "https://assets.echoesofastra.com/cards/IMP075_SkybladeSentinel_web.png",
+        "affinity": "Caelum",
         "isHorizontal": false
       }
     },
     "name": "Skyblade Sentinel",
     "type": "Unit",
-    "cost": 3
+    "cost": 3,
+    "affinity": "Caelum"
   },
   "IMP076": {
     "id": "IMP076",
@@ -1132,12 +1282,14 @@
         "type": "Unit",
         "cost": 5,
         "image": "https://assets.echoesofastra.com/cards/IMP076_SkybreakerGunship_web.png",
+        "affinity": "Caelum",
         "isHorizontal": false
       }
     },
     "name": "Skybreaker Gunship",
     "type": "Unit",
-    "cost": 5
+    "cost": 5,
+    "affinity": "Caelum"
   },
   "IMP077": {
     "id": "IMP077",
@@ -1147,12 +1299,14 @@
         "type": "Unit",
         "cost": 3,
         "image": "https://assets.echoesofastra.com/cards/IMP077_SynthalVampire_web.png",
+        "affinity": "Caelum",
         "isHorizontal": false
       }
     },
     "name": "Synthal Vampire",
     "type": "Unit",
-    "cost": 3
+    "cost": 3,
+    "affinity": "Caelum"
   },
   "IMP078": {
     "id": "IMP078",
@@ -1162,12 +1316,14 @@
         "type": "Unit",
         "cost": 4,
         "image": "https://assets.echoesofastra.com/cards/IMP078_Valeria,DragoonKnight_web.png",
+        "affinity": "Caelum",
         "isHorizontal": false
       }
     },
     "name": "Valeria, Dragoon Knight",
     "type": "Unit",
-    "cost": 4
+    "cost": 4,
+    "affinity": "Caelum"
   },
   "IMP079": {
     "id": "IMP079",
@@ -1177,12 +1333,14 @@
         "type": "Unit",
         "cost": 9,
         "image": "https://assets.echoesofastra.com/cards/IMP079_ValrathianDreadnought_web.png",
+        "affinity": "Caelum",
         "isHorizontal": false
       }
     },
     "name": "Valrathian Dreadnought",
     "type": "Unit",
-    "cost": 9
+    "cost": 9,
+    "affinity": "Caelum"
   },
   "IMP080": {
     "id": "IMP080",
@@ -1192,12 +1350,14 @@
         "type": "Unit",
         "cost": 3,
         "image": "https://assets.echoesofastra.com/cards/IMP080_WanderingSkyMerchant_web.png",
+        "affinity": "Caelum",
         "isHorizontal": false
       }
     },
     "name": "Wandering Sky Merchant",
     "type": "Unit",
-    "cost": 3
+    "cost": 3,
+    "affinity": "Caelum"
   },
   "IMP081": {
     "id": "IMP081",
@@ -1207,12 +1367,14 @@
         "type": "Unit",
         "cost": 4,
         "image": "https://assets.echoesofastra.com/cards/IMP081_WingshieldTransport_web.png",
+        "affinity": "Caelum",
         "isHorizontal": false
       }
     },
     "name": "Wingshield Transport",
     "type": "Unit",
-    "cost": 4
+    "cost": 4,
+    "affinity": "Caelum"
   },
   "IMP082": {
     "id": "IMP082",
@@ -1222,12 +1384,14 @@
         "type": "Tactic",
         "cost": 3,
         "image": "https://assets.echoesofastra.com/cards/IMP082_Airdrop_web.png",
+        "affinity": "Caelum",
         "isHorizontal": false
       }
     },
     "name": "Airdrop",
     "type": "Tactic",
-    "cost": 3
+    "cost": 3,
+    "affinity": "Caelum"
   },
   "IMP083": {
     "id": "IMP083",
@@ -1237,12 +1401,14 @@
         "type": "Tactic",
         "cost": 6,
         "image": "https://assets.echoesofastra.com/cards/IMP083_BreachtheDam_web.png",
+        "affinity": "Caelum",
         "isHorizontal": false
       }
     },
     "name": "Breach the Dam",
     "type": "Tactic",
-    "cost": 6
+    "cost": 6,
+    "affinity": "Caelum"
   },
   "IMP084": {
     "id": "IMP084",
@@ -1252,12 +1418,14 @@
         "type": "Tactic",
         "cost": 3,
         "image": "https://assets.echoesofastra.com/cards/IMP084_ComplexStratagem_web.png",
+        "affinity": "Caelum",
         "isHorizontal": false
       }
     },
     "name": "Complex Stratagem",
     "type": "Tactic",
-    "cost": 3
+    "cost": 3,
+    "affinity": "Caelum"
   },
   "IMP085": {
     "id": "IMP085",
@@ -1267,12 +1435,14 @@
         "type": "Tactic",
         "cost": 2,
         "image": "https://assets.echoesofastra.com/cards/IMP085_ForcedConfession_web.png",
+        "affinity": "Caelum",
         "isHorizontal": false
       }
     },
     "name": "Forced Confession",
     "type": "Tactic",
-    "cost": 2
+    "cost": 2,
+    "affinity": "Caelum"
   },
   "IMP086": {
     "id": "IMP086",
@@ -1282,12 +1452,14 @@
         "type": "Tactic",
         "cost": 3,
         "image": "https://assets.echoesofastra.com/cards/IMP086_Rebound_web.png",
+        "affinity": "Caelum",
         "isHorizontal": false
       }
     },
     "name": "Rebound",
     "type": "Tactic",
-    "cost": 3
+    "cost": 3,
+    "affinity": "Caelum"
   },
   "IMP087": {
     "id": "IMP087",
@@ -1297,12 +1469,14 @@
         "type": "Tactic",
         "cost": 3,
         "image": "https://assets.echoesofastra.com/cards/IMP087_AbandontheLab_web.png",
+        "affinity": "Caelum",
         "isHorizontal": false
       }
     },
     "name": "Abandon the Lab",
     "type": "Tactic",
-    "cost": 3
+    "cost": 3,
+    "affinity": "Caelum"
   },
   "IMP088": {
     "id": "IMP088",
@@ -1312,12 +1486,14 @@
         "type": "Tactic",
         "cost": 4,
         "image": "https://assets.echoesofastra.com/cards/IMP088_VoidWarp_web.png",
+        "affinity": "Caelum",
         "isHorizontal": false
       }
     },
     "name": "Void Warp",
     "type": "Tactic",
-    "cost": 4
+    "cost": 4,
+    "affinity": "Caelum"
   },
   "IMP089": {
     "id": "IMP089",
@@ -1327,12 +1503,14 @@
         "type": "Item",
         "cost": 2,
         "image": "https://assets.echoesofastra.com/cards/IMP089_DisruptionStaff_web.png",
+        "affinity": "Caelum",
         "isHorizontal": false
       }
     },
     "name": "Disruption Staff",
     "type": "Item",
-    "cost": 2
+    "cost": 2,
+    "affinity": "Caelum"
   },
   "IMP090": {
     "id": "IMP090",
@@ -1342,12 +1520,14 @@
         "type": "Item",
         "cost": 3,
         "image": "https://assets.echoesofastra.com/cards/IMP090_DriftersNecklace_web.png",
+        "affinity": "Caelum",
         "isHorizontal": false
       }
     },
     "name": "Drifter's Necklace",
     "type": "Item",
-    "cost": 3
+    "cost": 3,
+    "affinity": "Caelum"
   },
   "IMP091": {
     "id": "IMP091",
@@ -1357,12 +1537,14 @@
         "type": "Item",
         "cost": 2,
         "image": "https://assets.echoesofastra.com/cards/IMP091_FreightModule_web.png",
+        "affinity": "Caelum",
         "isHorizontal": false
       }
     },
     "name": "Freight Module",
     "type": "Item",
-    "cost": 2
+    "cost": 2,
+    "affinity": "Caelum"
   },
   "IMP092": {
     "id": "IMP092",
@@ -1372,12 +1554,14 @@
         "type": "Territory",
         "cost": 2,
         "image": "https://assets.echoesofastra.com/cards/IMP092_ArchiveRuins_web.png",
+        "affinity": "Caelum",
         "isHorizontal": false
       }
     },
     "name": "Archive Ruins",
     "type": "Territory",
-    "cost": 2
+    "cost": 2,
+    "affinity": "Caelum"
   },
   "IMP093": {
     "id": "IMP093",
@@ -1387,12 +1571,14 @@
         "type": "Territory",
         "cost": 4,
         "image": "https://assets.echoesofastra.com/cards/IMP093_JammingTower_web.png",
+        "affinity": "Caelum",
         "isHorizontal": false
       }
     },
     "name": "Jamming Tower",
     "type": "Territory",
-    "cost": 4
+    "cost": 4,
+    "affinity": "Caelum"
   },
   "IMP094": {
     "id": "IMP094",
@@ -1402,12 +1588,14 @@
         "type": "Territory",
         "cost": 3,
         "image": "https://assets.echoesofastra.com/cards/IMP094_RadarBeacon_web.png",
+        "affinity": "Caelum",
         "isHorizontal": false
       }
     },
     "name": "Radar Beacon",
     "type": "Territory",
-    "cost": 3
+    "cost": 3,
+    "affinity": "Caelum"
   },
   "IMP095": {
     "id": "IMP095",
@@ -1417,12 +1605,14 @@
         "type": "Territory",
         "cost": 3,
         "image": "https://assets.echoesofastra.com/cards/IMP095_UnyieldingStorm_web.png",
+        "affinity": "Caelum",
         "isHorizontal": false
       }
     },
     "name": "Unyielding Storm",
     "type": "Territory",
-    "cost": 3
+    "cost": 3,
+    "affinity": "Caelum"
   },
   "IMP096": {
     "id": "IMP096",
@@ -1432,12 +1622,14 @@
         "type": "Unit",
         "cost": 3,
         "image": "https://assets.echoesofastra.com/cards/IMP096_AshfangPillager_web.png",
+        "affinity": "Solara",
         "isHorizontal": false
       }
     },
     "name": "Ashfang Pillager",
     "type": "Unit",
-    "cost": 3
+    "cost": 3,
+    "affinity": "Solara"
   },
   "IMP097": {
     "id": "IMP097",
@@ -1447,12 +1639,14 @@
         "type": "Unit",
         "cost": 3,
         "image": "https://assets.echoesofastra.com/cards/IMP097_AshfangRaider_web.png",
+        "affinity": "Solara",
         "isHorizontal": false
       }
     },
     "name": "Ashfang Raider",
     "type": "Unit",
-    "cost": 3
+    "cost": 3,
+    "affinity": "Solara"
   },
   "IMP098": {
     "id": "IMP098",
@@ -1462,12 +1656,14 @@
         "type": "Unit",
         "cost": 2,
         "image": "https://assets.echoesofastra.com/cards/IMP098_AshfangScout_web.png",
+        "affinity": "Solara",
         "isHorizontal": false
       }
     },
     "name": "Ashfang Scout",
     "type": "Unit",
-    "cost": 2
+    "cost": 2,
+    "affinity": "Solara"
   },
   "IMP099": {
     "id": "IMP099",
@@ -1477,12 +1673,14 @@
         "type": "Unit",
         "cost": 2,
         "image": "https://assets.echoesofastra.com/cards/IMP099_EmberfangAssassin_web.png",
+        "affinity": "Solara",
         "isHorizontal": false
       }
     },
     "name": "Emberfang Assassin",
     "type": "Unit",
-    "cost": 2
+    "cost": 2,
+    "affinity": "Solara"
   },
   "IMP100": {
     "id": "IMP100",
@@ -1492,12 +1690,14 @@
         "type": "Unit",
         "cost": 2,
         "image": "https://assets.echoesofastra.com/cards/IMP100_FearlessWhelp_web.png",
+        "affinity": "Solara",
         "isHorizontal": false
       }
     },
     "name": "Fearless Whelp",
     "type": "Unit",
-    "cost": 2
+    "cost": 2,
+    "affinity": "Solara"
   },
   "IMP101": {
     "id": "IMP101",
@@ -1507,12 +1707,14 @@
         "type": "Unit",
         "cost": 4,
         "image": "https://assets.echoesofastra.com/cards/IMP101_FrenziedFiredancer_web.png",
+        "affinity": "Solara",
         "isHorizontal": false
       }
     },
     "name": "Frenzied Firedancer",
     "type": "Unit",
-    "cost": 4
+    "cost": 4,
+    "affinity": "Solara"
   },
   "IMP102": {
     "id": "IMP102",
@@ -1522,12 +1724,14 @@
         "type": "Unit",
         "cost": 7,
         "image": "https://assets.echoesofastra.com/cards/IMP102_Hongzhen,theScarletOracle_web.png",
+        "affinity": "Solara",
         "isHorizontal": false
       }
     },
     "name": "Hongzhen, the Scarlet Oracle",
     "type": "Unit",
-    "cost": 7
+    "cost": 7,
+    "affinity": "Solara"
   },
   "IMP103": {
     "id": "IMP103",
@@ -1537,12 +1741,14 @@
         "type": "Unit",
         "cost": 1,
         "image": "https://assets.echoesofastra.com/cards/IMP103_KoboldRunt_web.png",
+        "affinity": "Solara",
         "isHorizontal": false
       }
     },
     "name": "Kobold Runt",
     "type": "Unit",
-    "cost": 1
+    "cost": 1,
+    "affinity": "Solara"
   },
   "IMP104": {
     "id": "IMP104",
@@ -1552,12 +1758,14 @@
         "type": "Unit",
         "cost": 1,
         "image": "https://assets.echoesofastra.com/cards/IMP104_LightfootOutrider_web.png",
+        "affinity": "Solara",
         "isHorizontal": false
       }
     },
     "name": "Lightfoot Outrider",
     "type": "Unit",
-    "cost": 1
+    "cost": 1,
+    "affinity": "Solara"
   },
   "IMP105": {
     "id": "IMP105",
@@ -1567,12 +1775,14 @@
         "type": "Unit",
         "cost": 3,
         "image": "https://assets.echoesofastra.com/cards/IMP105_Lingyi,theGildedProphet_web.png",
+        "affinity": "Solara",
         "isHorizontal": false
       }
     },
     "name": "Lingyi, the Gilded Prophet",
     "type": "Unit",
-    "cost": 3
+    "cost": 3,
+    "affinity": "Solara"
   },
   "IMP106": {
     "id": "IMP106",
@@ -1582,12 +1792,14 @@
         "type": "Unit",
         "cost": 4,
         "image": "https://assets.echoesofastra.com/cards/IMP106_Ragetusk_web.png",
+        "affinity": "Solara",
         "isHorizontal": false
       }
     },
     "name": "Ragetusk",
     "type": "Unit",
-    "cost": 4
+    "cost": 4,
+    "affinity": "Solara"
   },
   "IMP107": {
     "id": "IMP107",
@@ -1597,12 +1809,14 @@
         "type": "Unit",
         "cost": 2,
         "image": "https://assets.echoesofastra.com/cards/IMP107_RecklessWarrior_web.png",
+        "affinity": "Solara",
         "isHorizontal": false
       }
     },
     "name": "Reckless Warrior",
     "type": "Unit",
-    "cost": 2
+    "cost": 2,
+    "affinity": "Solara"
   },
   "IMP108": {
     "id": "IMP108",
@@ -1612,12 +1826,14 @@
         "type": "Unit",
         "cost": 3,
         "image": "https://assets.echoesofastra.com/cards/IMP108_Rockjaw,FearlessGladiator_web.png",
+        "affinity": "Solara",
         "isHorizontal": false
       }
     },
     "name": "Rockjaw, Fearless Gladiator",
     "type": "Unit",
-    "cost": 3
+    "cost": 3,
+    "affinity": "Solara"
   },
   "IMP109": {
     "id": "IMP109",
@@ -1627,12 +1843,14 @@
         "type": "Unit",
         "cost": 4,
         "image": "https://assets.echoesofastra.com/cards/IMP109_RuinsLooter_web.png",
+        "affinity": "Solara",
         "isHorizontal": false
       }
     },
     "name": "Ruins Looter",
     "type": "Unit",
-    "cost": 4
+    "cost": 4,
+    "affinity": "Solara"
   },
   "IMP110": {
     "id": "IMP110",
@@ -1642,12 +1860,14 @@
         "type": "Unit",
         "cost": 3,
         "image": "https://assets.echoesofastra.com/cards/IMP110_VaingloryReaver_web.png",
+        "affinity": "Solara",
         "isHorizontal": false
       }
     },
     "name": "Vainglory Reaver",
     "type": "Unit",
-    "cost": 3
+    "cost": 3,
+    "affinity": "Solara"
   },
   "IMP111": {
     "id": "IMP111",
@@ -1657,12 +1877,14 @@
         "type": "Unit",
         "cost": 8,
         "image": "https://assets.echoesofastra.com/cards/IMP111_Varenthus,theSkyscourge_web.png",
+        "affinity": "Solara",
         "isHorizontal": false
       }
     },
     "name": "Varenthus, the Skyscourge",
     "type": "Unit",
-    "cost": 8
+    "cost": 8,
+    "affinity": "Solara"
   },
   "IMP112": {
     "id": "IMP112",
@@ -1672,12 +1894,14 @@
         "type": "Unit",
         "cost": 4,
         "image": "https://assets.echoesofastra.com/cards/IMP112_VoraciousWyvern_web.png",
+        "affinity": "Solara",
         "isHorizontal": false
       }
     },
     "name": "Voracious Wyvern",
     "type": "Unit",
-    "cost": 4
+    "cost": 4,
+    "affinity": "Solara"
   },
   "IMP113": {
     "id": "IMP113",
@@ -1687,12 +1911,14 @@
         "type": "Unit",
         "cost": 5,
         "image": "https://assets.echoesofastra.com/cards/IMP113_WyrmscarDragon_web.png",
+        "affinity": "Solara",
         "isHorizontal": false
       }
     },
     "name": "Wyrmscar Dragon",
     "type": "Unit",
-    "cost": 5
+    "cost": 5,
+    "affinity": "Solara"
   },
   "IMP114": {
     "id": "IMP114",
@@ -1702,12 +1928,14 @@
         "type": "Unit",
         "cost": 5,
         "image": "https://assets.echoesofastra.com/cards/IMP114_Zhufeng,theEmber-Warden_web.png",
+        "affinity": "Solara",
         "isHorizontal": false
       }
     },
     "name": "Zhufeng, the Ember-Warden",
     "type": "Unit",
-    "cost": 5
+    "cost": 5,
+    "affinity": "Solara"
   },
   "IMP115": {
     "id": "IMP115",
@@ -1717,12 +1945,14 @@
         "type": "Tactic",
         "cost": 1,
         "image": "https://assets.echoesofastra.com/cards/IMP115_Brand_web.png",
+        "affinity": "Solara",
         "isHorizontal": false
       }
     },
     "name": "Brand",
     "type": "Tactic",
-    "cost": 1
+    "cost": 1,
+    "affinity": "Solara"
   },
   "IMP116": {
     "id": "IMP116",
@@ -1732,12 +1962,14 @@
         "type": "Tactic",
         "cost": 3,
         "image": "https://assets.echoesofastra.com/cards/IMP116_LavaFlow_web.png",
+        "affinity": "Solara",
         "isHorizontal": false
       }
     },
     "name": "Lava Flow",
     "type": "Tactic",
-    "cost": 3
+    "cost": 3,
+    "affinity": "Solara"
   },
   "IMP117": {
     "id": "IMP117",
@@ -1747,12 +1979,14 @@
         "type": "Tactic",
         "cost": 4,
         "image": "https://assets.echoesofastra.com/cards/IMP117_MarkofDeath_web.png",
+        "affinity": "Solara",
         "isHorizontal": false
       }
     },
     "name": "Mark of Death",
     "type": "Tactic",
-    "cost": 4
+    "cost": 4,
+    "affinity": "Solara"
   },
   "IMP118": {
     "id": "IMP118",
@@ -1762,12 +1996,14 @@
         "type": "Tactic",
         "cost": 3,
         "image": "https://assets.echoesofastra.com/cards/IMP118_Ransack_web.png",
+        "affinity": "Solara",
         "isHorizontal": false
       }
     },
     "name": "Ransack",
     "type": "Tactic",
-    "cost": 3
+    "cost": 3,
+    "affinity": "Solara"
   },
   "IMP119": {
     "id": "IMP119",
@@ -1777,12 +2013,14 @@
         "type": "Tactic",
         "cost": 2,
         "image": "https://assets.echoesofastra.com/cards/IMP119_RocketBarrage_web.png",
+        "affinity": "Solara",
         "isHorizontal": false
       }
     },
     "name": "Rocket Barrage",
     "type": "Tactic",
-    "cost": 2
+    "cost": 2,
+    "affinity": "Solara"
   },
   "IMP120": {
     "id": "IMP120",
@@ -1792,12 +2030,14 @@
         "type": "Tactic",
         "cost": 3,
         "image": "https://assets.echoesofastra.com/cards/IMP120_Uprising_web.png",
+        "affinity": "Solara",
         "isHorizontal": false
       }
     },
     "name": "Uprising",
     "type": "Tactic",
-    "cost": 3
+    "cost": 3,
+    "affinity": "Solara"
   },
   "IMP121": {
     "id": "IMP121",
@@ -1807,12 +2047,14 @@
         "type": "Tactic",
         "cost": 1,
         "image": "https://assets.echoesofastra.com/cards/IMP121_Enrage_web.png",
+        "affinity": "Solara",
         "isHorizontal": false
       }
     },
     "name": "Enrage",
     "type": "Tactic",
-    "cost": 1
+    "cost": 1,
+    "affinity": "Solara"
   },
   "IMP122": {
     "id": "IMP122",
@@ -1822,12 +2064,14 @@
         "type": "Item",
         "cost": 3,
         "image": "https://assets.echoesofastra.com/cards/IMP122_Glorybringer_web.png",
+        "affinity": "Solara",
         "isHorizontal": false
       }
     },
     "name": "Glorybringer",
     "type": "Item",
-    "cost": 3
+    "cost": 3,
+    "affinity": "Solara"
   },
   "IMP123": {
     "id": "IMP123",
@@ -1837,12 +2081,14 @@
         "type": "Item",
         "cost": 2,
         "image": "https://assets.echoesofastra.com/cards/IMP123_Vengeance_web.png",
+        "affinity": "Solara",
         "isHorizontal": false
       }
     },
     "name": "Vengeance",
     "type": "Item",
-    "cost": 2
+    "cost": 2,
+    "affinity": "Solara"
   },
   "IMP124": {
     "id": "IMP124",
@@ -1852,12 +2098,14 @@
         "type": "Territory",
         "cost": 2,
         "image": "https://assets.echoesofastra.com/cards/IMP124_AshfangRallyPoint_web.png",
+        "affinity": "Solara",
         "isHorizontal": false
       }
     },
     "name": "Ashfang Rally Point",
     "type": "Territory",
-    "cost": 2
+    "cost": 2,
+    "affinity": "Solara"
   },
   "IMP125": {
     "id": "IMP125",
@@ -1867,12 +2115,14 @@
         "type": "Territory",
         "cost": 2,
         "image": "https://assets.echoesofastra.com/cards/IMP125_RuinsofthePrecursors_web.png",
+        "affinity": "Solara",
         "isHorizontal": false
       }
     },
     "name": "Ruins of the Precursors",
     "type": "Territory",
-    "cost": 2
+    "cost": 2,
+    "affinity": "Solara"
   },
   "IMP126": {
     "id": "IMP126",
@@ -1882,12 +2132,14 @@
         "type": "Territory",
         "cost": 1,
         "image": "https://assets.echoesofastra.com/cards/IMP126_WyrmscarPeaks_web.png",
+        "affinity": "Solara",
         "isHorizontal": false
       }
     },
     "name": "Wyrmscar Peaks",
     "type": "Territory",
-    "cost": 1
+    "cost": 1,
+    "affinity": "Solara"
   },
   "IMP127": {
     "id": "IMP127",
@@ -1897,12 +2149,14 @@
         "type": "Unit",
         "cost": 5,
         "image": "https://assets.echoesofastra.com/cards/IMP127_Akeno,NobleSamurai_web.png",
+        "affinity": "Terra",
         "isHorizontal": false
       }
     },
     "name": "Akeno, Noble Samurai",
     "type": "Unit",
-    "cost": 5
+    "cost": 5,
+    "affinity": "Terra"
   },
   "IMP128": {
     "id": "IMP128",
@@ -1912,12 +2166,14 @@
         "type": "Unit",
         "cost": 3,
         "image": "https://assets.echoesofastra.com/cards/IMP128_CanopyStalker_web.png",
+        "affinity": "Terra",
         "isHorizontal": false
       }
     },
     "name": "Canopy Stalker",
     "type": "Unit",
-    "cost": 3
+    "cost": 3,
+    "affinity": "Terra"
   },
   "IMP129": {
     "id": "IMP129",
@@ -1927,12 +2183,14 @@
         "type": "Unit",
         "cost": 5,
         "image": "https://assets.echoesofastra.com/cards/IMP129_ElorhainEliteGuard_web.png",
+        "affinity": "Terra",
         "isHorizontal": false
       }
     },
     "name": "Elorhain Elite Guard",
     "type": "Unit",
-    "cost": 5
+    "cost": 5,
+    "affinity": "Terra"
   },
   "IMP130": {
     "id": "IMP130",
@@ -1942,12 +2200,14 @@
         "type": "Unit",
         "cost": 9,
         "image": "https://assets.echoesofastra.com/cards/IMP130_Gaia,LordofNature_web.png",
+        "affinity": "Terra",
         "isHorizontal": false
       }
     },
     "name": "Gaia, Lord of Nature",
     "type": "Unit",
-    "cost": 9
+    "cost": 9,
+    "affinity": "Terra"
   },
   "IMP131": {
     "id": "IMP131",
@@ -1957,12 +2217,14 @@
         "type": "Unit",
         "cost": 3,
         "image": "https://assets.echoesofastra.com/cards/IMP131_GroveShaman_web.png",
+        "affinity": "Terra",
         "isHorizontal": false
       }
     },
     "name": "Grove Shaman",
     "type": "Unit",
-    "cost": 3
+    "cost": 3,
+    "affinity": "Terra"
   },
   "IMP132": {
     "id": "IMP132",
@@ -1972,12 +2234,14 @@
         "type": "Unit",
         "cost": 5,
         "image": "https://assets.echoesofastra.com/cards/IMP132_IchoroftheVerdant_web.png",
+        "affinity": "Terra",
         "isHorizontal": false
       }
     },
     "name": "Ichor of the Verdant",
     "type": "Unit",
-    "cost": 5
+    "cost": 5,
+    "affinity": "Terra"
   },
   "IMP133": {
     "id": "IMP133",
@@ -1987,12 +2251,14 @@
         "type": "Unit",
         "cost": 6,
         "image": "https://assets.echoesofastra.com/cards/IMP133_KingBeneaththeCanopy_web.png",
+        "affinity": "Terra",
         "isHorizontal": false
       }
     },
     "name": "King Beneath the Canopy",
     "type": "Unit",
-    "cost": 6
+    "cost": 6,
+    "affinity": "Terra"
   },
   "IMP134": {
     "id": "IMP134",
@@ -2002,12 +2268,14 @@
         "type": "Unit",
         "cost": 2,
         "image": "https://assets.echoesofastra.com/cards/IMP134_KitsuneBlademaiden_web.png",
+        "affinity": "Terra",
         "isHorizontal": false
       }
     },
     "name": "Kitsune Blademaiden",
     "type": "Unit",
-    "cost": 2
+    "cost": 2,
+    "affinity": "Terra"
   },
   "IMP135": {
     "id": "IMP135",
@@ -2017,12 +2285,14 @@
         "type": "Unit",
         "cost": 4,
         "image": "https://assets.echoesofastra.com/cards/IMP135_Nelduin,HiddenBlade_web.png",
+        "affinity": "Terra",
         "isHorizontal": false
       }
     },
     "name": "Nelduin, Hidden Blade",
     "type": "Unit",
-    "cost": 4
+    "cost": 4,
+    "affinity": "Terra"
   },
   "IMP136": {
     "id": "IMP136",
@@ -2032,12 +2302,14 @@
         "type": "Unit",
         "cost": 3,
         "image": "https://assets.echoesofastra.com/cards/IMP136_RavenMoonwhisper_web.png",
+        "affinity": "Terra",
         "isHorizontal": false
       }
     },
     "name": "Raven Moonwhisper",
     "type": "Unit",
-    "cost": 3
+    "cost": 3,
+    "affinity": "Terra"
   },
   "IMP137": {
     "id": "IMP137",
@@ -2047,12 +2319,14 @@
         "type": "Unit",
         "cost": 6,
         "image": "https://assets.echoesofastra.com/cards/IMP137_SunderingWyrm_web.png",
+        "affinity": "Terra",
         "isHorizontal": false
       }
     },
     "name": "Sundering Wyrm",
     "type": "Unit",
-    "cost": 6
+    "cost": 6,
+    "affinity": "Terra"
   },
   "IMP138": {
     "id": "IMP138",
@@ -2062,12 +2336,14 @@
         "type": "Unit",
         "cost": 2,
         "image": "https://assets.echoesofastra.com/cards/IMP138_SylvanArcher_web.png",
+        "affinity": "Terra",
         "isHorizontal": false
       }
     },
     "name": "Sylvan Archer",
     "type": "Unit",
-    "cost": 2
+    "cost": 2,
+    "affinity": "Terra"
   },
   "IMP139": {
     "id": "IMP139",
@@ -2077,12 +2353,14 @@
         "type": "Unit",
         "cost": 3,
         "image": "https://assets.echoesofastra.com/cards/IMP139_SylvanRallier_web.png",
+        "affinity": "Terra",
         "isHorizontal": false
       }
     },
     "name": "Sylvan Rallier",
     "type": "Unit",
-    "cost": 3
+    "cost": 3,
+    "affinity": "Terra"
   },
   "IMP140": {
     "id": "IMP140",
@@ -2092,12 +2370,14 @@
         "type": "Unit",
         "cost": 1,
         "image": "https://assets.echoesofastra.com/cards/IMP140_SylvanTrainee_web.png",
+        "affinity": "Terra",
         "isHorizontal": false
       }
     },
     "name": "Sylvan Trainee",
     "type": "Unit",
-    "cost": 1
+    "cost": 1,
+    "affinity": "Terra"
   },
   "IMP141": {
     "id": "IMP141",
@@ -2107,12 +2387,14 @@
         "type": "Unit",
         "cost": 4,
         "image": "https://assets.echoesofastra.com/cards/IMP141_VerdantProtector_web.png",
+        "affinity": "Terra",
         "isHorizontal": false
       }
     },
     "name": "Verdant Protector",
     "type": "Unit",
-    "cost": 4
+    "cost": 4,
+    "affinity": "Terra"
   },
   "IMP142": {
     "id": "IMP142",
@@ -2122,12 +2404,14 @@
         "type": "Unit",
         "cost": 2,
         "image": "https://assets.echoesofastra.com/cards/IMP142_WindleafScout_web.png",
+        "affinity": "Terra",
         "isHorizontal": false
       }
     },
     "name": "Windleaf Scout",
     "type": "Unit",
-    "cost": 2
+    "cost": 2,
+    "affinity": "Terra"
   },
   "IMP143": {
     "id": "IMP143",
@@ -2137,12 +2421,14 @@
         "type": "Unit",
         "cost": 3,
         "image": "https://assets.echoesofastra.com/cards/IMP143_WoodlandWanderer_web.png",
+        "affinity": "Terra",
         "isHorizontal": false
       }
     },
     "name": "Woodland Wanderer",
     "type": "Unit",
-    "cost": 3
+    "cost": 3,
+    "affinity": "Terra"
   },
   "IMP144": {
     "id": "IMP144",
@@ -2152,12 +2438,14 @@
         "type": "Unit",
         "cost": 3,
         "image": "https://assets.echoesofastra.com/cards/IMP144_YakoIllusionist_web.png",
+        "affinity": "Terra",
         "isHorizontal": false
       }
     },
     "name": "Yako Illusionist",
     "type": "Unit",
-    "cost": 3
+    "cost": 3,
+    "affinity": "Terra"
   },
   "IMP145": {
     "id": "IMP145",
@@ -2167,12 +2455,14 @@
         "type": "Tactic",
         "cost": 3,
         "image": "https://assets.echoesofastra.com/cards/IMP145_CoordinatedStrike_web.png",
+        "affinity": "Terra",
         "isHorizontal": false
       }
     },
     "name": "Coordinated Strike",
     "type": "Tactic",
-    "cost": 3
+    "cost": 3,
+    "affinity": "Terra"
   },
   "IMP146": {
     "id": "IMP146",
@@ -2182,12 +2472,14 @@
         "type": "Tactic",
         "cost": 4,
         "image": "https://assets.echoesofastra.com/cards/IMP146_PredatoryStrike_web.png",
+        "affinity": "Terra",
         "isHorizontal": false
       }
     },
     "name": "Predatory Strike",
     "type": "Tactic",
-    "cost": 4
+    "cost": 4,
+    "affinity": "Terra"
   },
   "IMP147": {
     "id": "IMP147",
@@ -2197,12 +2489,14 @@
         "type": "Tactic",
         "cost": 2,
         "image": "https://assets.echoesofastra.com/cards/IMP147_PrimordialHowl_web.png",
+        "affinity": "Terra",
         "isHorizontal": false
       }
     },
     "name": "Primordial Howl",
     "type": "Tactic",
-    "cost": 2
+    "cost": 2,
+    "affinity": "Terra"
   },
   "IMP148": {
     "id": "IMP148",
@@ -2212,12 +2506,14 @@
         "type": "Tactic",
         "cost": 2,
         "image": "https://assets.echoesofastra.com/cards/IMP148_SporeBloom_web.png",
+        "affinity": "Terra",
         "isHorizontal": false
       }
     },
     "name": "Spore Bloom",
     "type": "Tactic",
-    "cost": 2
+    "cost": 2,
+    "affinity": "Terra"
   },
   "IMP149": {
     "id": "IMP149",
@@ -2227,12 +2523,14 @@
         "type": "Tactic",
         "cost": 3,
         "image": "https://assets.echoesofastra.com/cards/IMP149_CanopyAmbush_web.png",
+        "affinity": "Terra",
         "isHorizontal": false
       }
     },
     "name": "Canopy Ambush",
     "type": "Tactic",
-    "cost": 3
+    "cost": 3,
+    "affinity": "Terra"
   },
   "IMP150": {
     "id": "IMP150",
@@ -2242,12 +2540,14 @@
         "type": "Tactic",
         "cost": 2,
         "image": "https://assets.echoesofastra.com/cards/IMP150_LastStand_web.png",
+        "affinity": "Terra",
         "isHorizontal": false
       }
     },
     "name": "Last Stand",
     "type": "Tactic",
-    "cost": 2
+    "cost": 2,
+    "affinity": "Terra"
   },
   "IMP151": {
     "id": "IMP151",
@@ -2257,12 +2557,14 @@
         "type": "Tactic",
         "cost": 2,
         "image": "https://assets.echoesofastra.com/cards/IMP151_SwiftAcrobatics_web.png",
+        "affinity": "Terra",
         "isHorizontal": false
       }
     },
     "name": "Swift Acrobatics",
     "type": "Tactic",
-    "cost": 2
+    "cost": 2,
+    "affinity": "Terra"
   },
   "IMP152": {
     "id": "IMP152",
@@ -2272,12 +2574,14 @@
         "type": "Item",
         "cost": 2,
         "image": "https://assets.echoesofastra.com/cards/IMP152_Caltrops_web.png",
+        "affinity": "Terra",
         "isHorizontal": false
       }
     },
     "name": "Caltrops",
     "type": "Item",
-    "cost": 2
+    "cost": 2,
+    "affinity": "Terra"
   },
   "IMP153": {
     "id": "IMP153",
@@ -2287,12 +2591,14 @@
         "type": "Item",
         "cost": 2,
         "image": "https://assets.echoesofastra.com/cards/IMP153_LifecycleKatana_web.png",
+        "affinity": "Terra",
         "isHorizontal": false
       }
     },
     "name": "Lifecycle Katana",
     "type": "Item",
-    "cost": 2
+    "cost": 2,
+    "affinity": "Terra"
   },
   "IMP154": {
     "id": "IMP154",
@@ -2302,12 +2608,14 @@
         "type": "Item",
         "cost": 1,
         "image": "https://assets.echoesofastra.com/cards/IMP154_MoonwhisperHeirloom_web.png",
+        "affinity": "Terra",
         "isHorizontal": false
       }
     },
     "name": "Moonwhisper Heirloom",
     "type": "Item",
-    "cost": 1
+    "cost": 1,
+    "affinity": "Terra"
   },
   "IMP155": {
     "id": "IMP155",
@@ -2317,12 +2625,14 @@
         "type": "Territory",
         "cost": 5,
         "image": "https://assets.echoesofastra.com/cards/IMP155_Elorhain,theAncestralCrown_web.png",
+        "affinity": "Terra",
         "isHorizontal": false
       }
     },
     "name": "Elorhain, the Ancestral Crown",
     "type": "Territory",
-    "cost": 5
+    "cost": 5,
+    "affinity": "Terra"
   },
   "IMP156": {
     "id": "IMP156",
@@ -2332,12 +2642,14 @@
         "type": "Territory",
         "cost": 1,
         "image": "https://assets.echoesofastra.com/cards/IMP156_EntanglingWilds_web.png",
+        "affinity": "Terra",
         "isHorizontal": false
       }
     },
     "name": "Entangling Wilds",
     "type": "Territory",
-    "cost": 1
+    "cost": 1,
+    "affinity": "Terra"
   },
   "IMP157": {
     "id": "IMP157",
@@ -2347,12 +2659,14 @@
         "type": "Territory",
         "cost": 2,
         "image": "https://assets.echoesofastra.com/cards/IMP157_EscapeRoute_web.png",
+        "affinity": "Terra",
         "isHorizontal": false
       }
     },
     "name": "Escape Route",
     "type": "Territory",
-    "cost": 2
+    "cost": 2,
+    "affinity": "Terra"
   },
   "IMP158": {
     "id": "IMP158",
@@ -2362,12 +2676,14 @@
         "type": "Territory",
         "cost": 3,
         "image": "https://assets.echoesofastra.com/cards/IMP158_OvergrownFactory_web.png",
+        "affinity": "Terra",
         "isHorizontal": false
       }
     },
     "name": "Overgrown Factory",
     "type": "Territory",
-    "cost": 3
+    "cost": 3,
+    "affinity": "Terra"
   },
   "IMP159": {
     "id": "IMP159",
@@ -2377,12 +2693,14 @@
         "type": "Unit",
         "cost": 4,
         "image": "https://assets.echoesofastra.com/cards/IMP159_Excavator_web.png",
+        "affinity": "Neutral",
         "isHorizontal": false
       }
     },
     "name": "Excavator",
     "type": "Unit",
-    "cost": 4
+    "cost": 4,
+    "affinity": "Neutral"
   },
   "IMP160": {
     "id": "IMP160",
@@ -2392,11 +2710,47 @@
         "type": "Unit",
         "cost": 3,
         "image": "https://assets.echoesofastra.com/cards/IMP160_SupplyCarrier_web.png",
+        "affinity": "Neutral",
         "isHorizontal": false
       }
     },
     "name": "Supply Carrier",
     "type": "Unit",
-    "cost": 3
+    "cost": 3,
+    "affinity": "Neutral"
+  },
+   "TOK001": {
+    "id": "TOK001",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Experiment",
+        "type": false,
+        "cost": 0,
+        "image": "https://tmacaroni.github.io/echosofastra/experiment.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Experiment",
+    "type": "Unit",
+    "cost": 0,
+    "Affinity": "Neutral"
+  },
+  "TOK002": {
+    "id": "TOK002",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Drone",
+        "type": "Unit",
+        "cost": 0,
+        "image": "https://tmacaroni.github.io/echosofastra/drone.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Drone",
+    "type": "Unit",
+    "cost": 0,
+    "Affinity": "Neutral"
   }
 }
