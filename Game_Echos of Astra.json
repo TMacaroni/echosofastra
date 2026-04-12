@@ -56,7 +56,8 @@
           "Staging",
           "Supply",
           "CA1",
-          "CA3"
+          "CA3",
+          "Banishment"
         ],
         "layout": {
           "direction": "column",
