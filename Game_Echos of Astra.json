@@ -2,7 +2,9 @@
   "name": "Echos of Astra",
   "menuBackgroundImage": "https://tmacaroni.github.io/echosofastra/echosofastrabackground.webp",
   "defaultRessources": {
-    "backgrounds": ["https://tmacaroni.github.io/echosofastra/playmat/playmat1.png"],
+    "backgrounds": [
+      "https://tmacaroni.github.io/echosofastra/playmat/playmat1.png"
+    ],
     "decksUrl": "https://tmacaroni.github.io/echosofastra/StarterDecks.json"
   },
   "customHelp": " If you are new to the game, you can find the rules here : https://rules.echoesofastra.com/",
@@ -43,20 +45,7 @@
         "drawPerTurn": 1
       },
       "defaultNotes": "",
-      "tokens": [
-        {
-          "name": "Experiment",
-          "image": "https://tmacaroni.github.io/echosofastra/experiment.jpg",
-          "isUnique": false,
-          "leavesAtEndOfTurn": false
-        },
-        {
-          "name": "Drone",
-          "image": "https://tmacaroni.github.io/echosofastra/drone.jpg",
-          "isUnique": false,
-          "leavesAtEndOfTurn": false
-        }
-      ],
+      "tokens": [],
       "countersStartingValues": [
         0
       ],
@@ -127,6 +116,19 @@
                     }
                   ],
                   "isSymetricalForOpponents": false
+                },
+                {
+                  "direction": "column",
+                  "style": {
+                    "width": "11vh"
+                  },
+                  "content": [
+                    {
+                      "section": "Banishment",
+                      "style": false
+                    }
+                  ],
+                  "isSymetricalForOpponents": false
                 }
               ],
               "isSymetricalForOpponents": false
@@ -156,7 +158,8 @@
           "Unit": "Staging"
         },
         "autoPlayFromStack": {
-          "Unit": "Staging"
+          "Unit": "Staging",
+          "Tactic": "Discard"
         },
         "sectionsDict": {
           "Hand": {
@@ -357,6 +360,22 @@
             "enterTapped": true,
             "enterSpun": false,
             "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Banishment": {
+            "title": "Banishment",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": true,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           }
